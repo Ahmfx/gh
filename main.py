@@ -20,7 +20,7 @@ def usernames():
     g = ''.join(choice('qwertyuiopasdfghjklzxcvbnm1234567890') for i in range(1))
     _ = ''.join("_")
     e = ''.join(choice('qwertyuiopasdfghjklzxcvbnm') for i in range(1))
-     i = ''.join(choice('123456789') for i in range(1)) 
+    i = ''.join(choice('123456789') for i in range(1)) 
     u1 = k + c + e + e + e
     u2 = k + z + z + z + n
     u3 = k + k + k + n + c
